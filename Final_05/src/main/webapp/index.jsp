@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-히히
+	
 </body>
 </html>
